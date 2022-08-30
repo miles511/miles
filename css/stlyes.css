@@ -1,0 +1,153 @@
+body{
+
+    background-image: url('../images/KEyJox.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+.box{
+    background-color: rgb(2, 54, 30);
+    width: 1300px;
+    height: 200px;
+    color: aqua;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+.web{
+    line-height: ;
+}
+.para1{
+    margin-top: -17px;
+    font-size: small;
+}
+.para2{
+    margin-top: -10px;
+    font-size: small;
+}
+.para3{
+    font-size: xx-small;
+}
+#content{
+    max-width: 200px;
+    margin: 0, auto;
+    display: grid;
+    grid-template-columns: 59.3% 64.3% 120% 80%;
+    margin-top: -18px;
+    margin-left: -3px;
+    
+    
+    
+}
+
+#content div{
+    background-color: rgb(2, 54, 30);
+    padding: 15px;
+    margin: 2px;
+    height: 0.1px;
+    border: 1px;
+    border-color: rgb(111, 233, 176);
+    padding: 10px;
+    border-style: groove;
+    
+
+    
+}
+#content div:nth-child(even){
+    background: rgb(4, 97, 54)s
+    
+}
+.basics{
+    
+    margin: -8px;
+    margin-left: 5px;
+}
+.hooks{
+    
+    margin: -8px;
+    margin-left: 5px;
+}
+.firebase{
+    
+    margin: -8px;
+    margin-left: 5px;
+}
+.API{
+    
+    margin: -8px;
+    margin-left: 5px;
+}
+
+#ground{
+    max-width: 200px;
+    margin: 0, auto;
+    display: grid;
+    grid-template-columns: 60% 60% 60% ;
+    grid-template-rows: 60% 60% 60% ;
+    grid-column-gap: 140px;
+    grid-row-gap: 40px;
+    margin-top: 30px;
+    margin-left: 180px;
+    
+}
+
+
+#ground div{
+    background-color: rgb(18, 161, 94);
+    padding: 15px;
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    border-color: rgb(111, 233, 176);
+    padding: 10px;
+    border-style: groove;
+    border-radius: 300%;
+}
+.identify{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+    
+.build{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.implement{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.projects{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+    
+.design{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.add{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.small{
+    height: 30px;
+    background-color: rgb(13, 54, 54);
+    width: 200px;
+    margin-left: 1100px;
+    margin-bottom: -22px;
+}
+
+.heading{
+    height: 40px;
+    background-color: rgb(1, 26, 26);
+    
+}
